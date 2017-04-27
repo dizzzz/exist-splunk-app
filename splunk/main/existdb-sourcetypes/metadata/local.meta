@@ -1,0 +1,26 @@
+[app/ui]
+version = 6.5.3
+modtime = 1493310206.274688000
+
+[app/launcher]
+version = 6.5.3
+modtime = 1493310206.281626000
+
+[props/existdb%3Alog%3Amain]
+owner = admin
+version = 6.5.3
+modtime = 1493300772.905231000
+
+[props/existdb%3Alog%3Awrapper]
+owner = admin
+version = 6.5.3
+modtime = 1493300807.382540000
+
+[app/package/check_for_updates]
+version = 6.5.3
+modtime = 1493310206.283843000
+
+[props/existdb%3Alog%3Ajetty]
+owner = admin
+version = 6.5.3
+modtime = 1493308814.908297000

@@ -1,0 +1,18 @@
+[app/ui]
+version = 6.5.3
+modtime = 1492968543.821799000
+
+[app/launcher]
+version = 6.5.3
+modtime = 1492968543.825860000
+
+[views/existdb]
+access = read : [ * ], write : [ admin, can_delete, power, splunk-system-role, user ]
+export = none
+owner = admin
+version = 6.5.3
+modtime = 1493310169.107531000
+
+[nav/default]
+version = 6.5.3
+modtime = 1493308529.762256000

@@ -1,0 +1,21 @@
+[app/ui]
+version = 6.5.3
+modtime = 1493306948.578893000
+
+[app/launcher]
+version = 6.5.3
+modtime = 1493306948.585961000
+
+[props/activemq%3Alog%3Aactivemq]
+owner = admin
+version = 6.5.3
+modtime = 1493304508.703541000
+
+[props/activemq%3Alog%3Awrapper]
+owner = admin
+version = 6.5.3
+modtime = 1493304626.419293000
+
+[app/package/check_for_updates]
+version = 6.5.3
+modtime = 1493306948.588525000
