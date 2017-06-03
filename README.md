@@ -24,3 +24,6 @@ When eXist-db and Splunk run on the same server, the location of the app is
 ### Other apps
 The other apps (sourcetypes, index and main app), shall be copied into
 `SPLUNK_HOME/etc/apps`; no additional configuration is required.
+
+## References
+- [Install and configure an Universal Forwarder](https://answers.splunk.com/answers/50082/how-do-i-configure-a-splunk-forwarder-on-linux.html)
