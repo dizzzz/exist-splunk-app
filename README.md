@@ -27,3 +27,4 @@ The other apps (sourcetypes, index and main app), shall be copied into
 
 ## References
 - [Install and configure an Universal Forwarder](https://answers.splunk.com/answers/50082/how-do-i-configure-a-splunk-forwarder-on-linux.html)
+- [Splunk documentation](http://docs.splunk.com)
